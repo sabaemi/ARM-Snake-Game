@@ -1,6 +1,4 @@
-In this program, we implemented _Snake game_ using Arm Keil MDK and STM32Cube MX in STM32 ARM microcontroller.
-
-The direction of snake movement can be changed in 4 main directions by using 4 keys from the keypad module or WASD keys through UART. The speed of the snake can be changed using the volume module.
+In this program, we implemented _Snake game_ using Arm Keil MDK and STM32Cube MX in STM32 ARM microcontroller. The direction of snake movement can be changed in 4 main directions by using 4 keys from the keypad module or WASD keys through UART. The speed of the snake can be changed using the volume module.
 
 Assumptions:
 - LCD is considered as a 20x8 horizontal screen.
